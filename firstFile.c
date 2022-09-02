@@ -11,7 +11,8 @@ int main(void) {
 	printf("%.2f / %.2f = %.2f\n", firstFloat, secondFloat, firstFloat/secondFloat);
 	printf("%.2f + %.2f = %.2f\n", firstFloat, secondFloat, firstFloat+secondFloat);
 	printf("%.2f - %.2f = %.2f\n", firstFloat, secondFloat, firstFloat-secondFloat);
-	printf("%.2f * %.2f = %.2f\n", firstFloat, secondFloat, firstFloat*secondFloat);	
+	printf("%.2f * %.2f = %.2f\n", firstFloat, secondFloat, firstFloat*secondFloat);
+	printf("This is a new line");	
     
     return 0;
 	
