@@ -5,7 +5,7 @@ int main(void) {
 	float secondFloat = 0;
 	
     printf("enter your first float: ");
-    int numInputs = scanf("%f %f", &firstFloat, &secondFloat);
+    scanf("%f %f", &firstFloat, &secondFloat);
 	
 	
 	printf("%.2f / %.2f = %.2f\n", firstFloat, secondFloat, firstFloat/secondFloat);

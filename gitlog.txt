@@ -1,0 +1,35 @@
+commit a9557366a9a6e601821f2f007ec0c1fa84a02a3d
+Author: Tanner Gladson <tannergladson@gmail.com>
+Date:   Thu Sep 1 17:30:11 2022 -0400
+
+    Removed redundant file
+
+commit 49675c3f23ec6b1bd002d5f62e4c26761e42b0c7
+Author: Tanner Gladson <tannergladson@gmail.com>
+Date:   Thu Sep 1 17:27:13 2022 -0400
+
+    Merging branches seems dangerous
+
+commit 89a1126efe21a44256ba6652f0170c7f5372c6da
+Author: Tanner Gladson <tannergladson@gmail.com>
+Date:   Thu Sep 1 11:07:36 2022 -0400
+
+    test commit to branch
+
+commit b43428f6a153933b80151ce2796a3738dd51d421
+Author: Tanner Gladson <tannergladson@gmail.com>
+Date:   Thu Sep 1 11:01:37 2022 -0400
+
+    second commit
+
+commit 2a145e130db8db1176ba9cb94426189e9b575adc
+Author: Tanner Gladson <tannergladson@gmail.com>
+Date:   Thu Sep 1 11:00:38 2022 -0400
+
+    first commit
+
+commit 3f139451e61c560f21b75646df4c1ff7dd9f3400
+Author: Tanner-Gladson <99154505+Tanner-Gladson@users.noreply.github.com>
+Date:   Thu Sep 1 10:48:03 2022 -0400
+
+    Initial commit
